@@ -1,0 +1,11 @@
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.csproj.AssemblyReference.cache
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.Properties.Resources.resources
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.csproj.GenerateResource.cache
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.csproj.CoreCompileInputs.cache
+C:\Users\Hasif\RiderProjects\print\print\bin\Debug\print.exe.config
+C:\Users\Hasif\RiderProjects\print\print\bin\Debug\print.exe
+C:\Users\Hasif\RiderProjects\print\print\bin\Debug\print.pdb
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.exe
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.pdb
+C:\Users\Hasif\RiderProjects\print\print\obj\Debug\print.Form1.resources
